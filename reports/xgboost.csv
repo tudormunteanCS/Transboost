@@ -1,0 +1,11 @@
+project,class,precision,recall,f1-score
+adamfisk@LittleProxy,0,0.9968,0.9931,0.9949
+adamfisk@LittleProxy,1,0.6429,0.7941,0.7105
+apache@sling,0,0.9993,0.9993,0.9993
+apache@sling,1,0.8326,0.8362,0.8344
+DSpace@DSpace,0,0.9996,0.9899,0.9947
+DSpace@DSpace,1,0.5752,0.9705,0.7223
+l0rdn1kk0n@wicket-bootstrap,0,0.9998,0.9994,0.9996
+l0rdn1kk0n@wicket-bootstrap,1,0.9978,0.9994,0.9986
+SonarSource@sonarqube,0,0.9999,0.9986,0.9993
+SonarSource@sonarqube,1,0.1637,0.8445,0.2743

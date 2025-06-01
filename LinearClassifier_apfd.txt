@@ -1,0 +1,7 @@
+apache@sling: 0.80
+CloudifySource@cloudify: 0.82
+doanduyhai@Achilles: 0.89
+DSpace@DSpace: 0.84
+facebook@buck: 0.81
+Graylog2@graylog2-server: 0.87
+square@okhttp: 0.79
